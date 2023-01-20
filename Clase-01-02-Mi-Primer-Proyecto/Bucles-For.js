@@ -37,6 +37,7 @@ let persona = {
     email: "roco272012@hotmail.com",
     isDeveloper: true
 }
+    // ciclos repetitivos
 // console.log(persona.email);
 let proEdad = "edad";
 console.log(persona[proEdad]);
