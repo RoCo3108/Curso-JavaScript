@@ -58,3 +58,4 @@ const objetos = listaObjetos.find(n =>{
     return n.nombre === "Jairo"
 })
 console.log(objetos.edad);
+listaObjetos.forEach
